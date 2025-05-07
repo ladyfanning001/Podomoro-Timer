@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-![Pomodoro Timer Screenshot](screenshots/pomodoro_screenshot.png)
+![Pomodoro Timer Screenshot](assets/pomodoro_screenshot.png)
 
 ## 📝 Deskripsi
 Pomodoro Timer adalah aplikasi manajemen waktu berbasis teknik Pomodoro yang dibuat dengan Python dan Pygame. Aplikasi ini membantu meningkatkan produktivitas dengan membagi waktu kerja menjadi interval fokus yang diselingi dengan istirahat pendek.
